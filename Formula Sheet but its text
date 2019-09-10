@@ -30,5 +30,8 @@ Trig Identities
 
 tanθ = sinθ/cosθ
 cotθ = cosθ/sinθ = 1/tanθ
+
 secθ = 1/cosθ
 cscθ = 1/sinθ
+
+sec²θ = 1+tan²θ
