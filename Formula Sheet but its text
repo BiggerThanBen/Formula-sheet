@@ -1,5 +1,5 @@
 LAW OF SIN
-(A/sin(A))=(B/sin(B))=(C/sin(C))
+SinA/a = SinB/b = SinC/c
 
 LAW OF COSINES
 A²=B²+C²-2BCcos(A)
@@ -40,5 +40,10 @@ Instructions for specific problems
 
 For inverse problems, switch the x and y value and solve for y
 Example: y=x²+3 becomes x=y²+3 then solve for y
+
+Vertical line test: 
+If you can draw a vertical line anywhere on
+a graph so that it hits the graph in more
+than one spot, then the graph is NOT a function.
 
 
