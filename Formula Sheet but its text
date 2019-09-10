@@ -1,0 +1,34 @@
+LAW OF SIN
+(A/sin(A))=(B/sin(B))=(C/sin(C))
+
+LAW OF COSINES
+A²=B²+C²-2BCcos(A)
+
+VERTEX FORM
+Y=A(X-H)²+K
+
+AXIS OF SYMM
+X=­B/2A
+FOCUS
+(H,K+(1/4A))
+
+
+Trig Graphs:
+
+Y=Asin[B(x-C)]+D
+
+|A| is the amplitude
+Period is (2π/B)
+Phase (horizontal) shift is C
+Vertical shift is D
+
+SAME APPLIES FOR COSINE
+
+For Tangent, period is (π/B)
+
+Trig Identities
+
+tanθ = sinθ/cosθ
+cotθ = cosθ/sinθ = 1/tanθ
+secθ = 1/cosθ
+cscθ = 1/sinθ
