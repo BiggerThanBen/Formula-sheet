@@ -35,3 +35,10 @@ secθ = 1/cosθ
 cscθ = 1/sinθ
 
 sec²θ = 1+tan²θ
+
+Instructions for specific problems
+
+For inverse problems, switch the x and y value and solve for y
+Example: y=x²+3 becomes x=y²+3 then solve for y
+
+
